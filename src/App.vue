@@ -16,7 +16,5 @@ export default {
 </script>
 
 <style lang="scss">
-
-  @import '../node_modules/milligram/dist/milligram.css';
-
+  @import '../node_modules/turretcss/dist/turretcss.min.css';
 </style>
