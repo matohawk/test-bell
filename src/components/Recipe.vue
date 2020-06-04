@@ -11,7 +11,7 @@
         </select>
       </div>
       <ul class="bell-test-recipe--list">
-        <li>{{nbPortionSelectedQuarter.display}} {{ $tc('cup', nbPortionSelectedQuarter.value)}} ( {{60 * nbPortionSelected }}ml) d'ananas</li>
+        <li>{{nbPortionSelectedQuarter.display}} {{ $tc('cup', nbPortionSelectedQuarter.value)}} ({{60 * nbPortionSelected }}ml) d'ananas</li>
         <li>{{nbPortionSelectedHalf.display}} {{ $tc('pear', nbPortionSelectedHalf.value)}} </li>
         <li>{{nbPortionSelectedHalf.display}} {{ $tc('spoon', nbPortionSelectedHalf.value)}} ({{15 * nbPortionSelected}} ml) de jus de pommes</li>
         <li>{{ $tc('grape', nbPortionSelected) }} de raisins rouges</li>
