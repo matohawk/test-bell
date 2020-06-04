@@ -1,0 +1,7 @@
+{
+  "cup": "tasse | tasse | tasses",
+  "pear": "poire | poire | poires",
+  "spoon": "cuillerée | cuillerée | cuillerées",
+  "grape": "0 grappe | {count} grappe | {count} grappes",
+  "strawberry": "fraise | fraises"
+}
